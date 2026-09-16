@@ -1,3 +1,10 @@
+#team names: Kyle, Bryan, Gabby
+#Purpose of code: Record data from LM393 liquid contact sensor, and place into csv files
+#Date code was started: 9/16/26
+#Last edit: 9/16/26
+#Explanation of AI use: coded nearly entirely with AI, with manual adjustments to formatting errors and to successively rename csv files.
+
+
 
 # Arduino Nano ESP32 + LM393 Rain Sensor
 # Analog output connected to A2 / GPIO3
