@@ -1,1 +1,1 @@
-
+test code 1, written using the help of gen ai on sep 23, 2026, is prototype code designed solely to test our hand fabricated/plated sensor. It successfully read voltage off the voltage divider, and proved that our sensor could be used for our project.
