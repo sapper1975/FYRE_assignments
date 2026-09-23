@@ -3,3 +3,6 @@
 
 See 'programming activities 2' for standalone projects
 See 'rainsensor' for liquid contact sensor from 9/16/26
+
+
+See 'prototype project' for details of our final project from 9/23/26
