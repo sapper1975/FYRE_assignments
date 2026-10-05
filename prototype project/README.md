@@ -1,3 +1,5 @@
 test code 1, written using the help of gen ai on sep 23, 2026, is prototype code designed solely to test our hand fabricated/plated sensor. It successfully read voltage off the voltage divider, and proved that our sensor could be used for our project.
 
 exalted salmon, written using the help of gen ai on sep 18, 2026, is the finalized code. it accepts sensor input from the hand fabricated moisture sensor and the cots rain sensor. It moves a servo motor to 90 degrees to extend protection in the presence of moisture, and returns the servo to 0 degrees at the press of a button or when the moisture readings return to normal.
+
+the photo documentation folder contains all photos of the build process
